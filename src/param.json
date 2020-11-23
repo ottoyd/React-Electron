@@ -1,0 +1,16 @@
+{
+  "todo": [
+    { "activity": "Bangun", "done": true  },
+    { "activity": "Makan", "done": true  },
+    { "activity": "Kerja", "done": true  },
+    { "activity": "Main", "done": false  },
+    { "activity": "Tidur", "done": false  }
+  ],
+  "MyCart" : [
+    { "activity": "BELI BARANG BENERAN", "bayar": true },
+    { "activity": "BELI BARANG BENERAN", "bayar": true }
+  ],
+  "History" : [
+    { "activity": "BELI BARANG BODONG", "bayar": false }
+  ]
+}
